@@ -6,3 +6,16 @@
 .headerPrincipal-nav{
     display: flex;
 }
+.rodapePrincipal-patrocinadores .container{
+    display: flex;
+    justify-content: space-between;
+}
+.rodapePrincipal-patrocinadores-list{
+    display: flex;
+    width: 75%;
+    align-items: center;
+    justify-content: space-around;
+}
+.rodapePrincipal-contatoForm-fieldset{
+    display: flex;
+}
